@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+    @keyframes blink { 0%,90%,100%{ry:10} 95%{ry:1} }
+    @keyframes earWiggle { 0%,100%{transform:rotate(0deg)} 25%{transform:rotate(-5deg)} 75%{transform:rotate(5deg)} }
+    .grogu-body { animation: float 3s ease-in-out infinite; }
+    .eye-left, .eye-right { animation: blink 4s ease-in-out infinite; }
+    .ear-left { animation: earWiggle 4s ease-in-out infinite; transform-origin: 85px 80px; }
+    .ear-right { animation: earWiggle 4s ease-in-out infinite reverse; transform-origin: 115px 80px; }
+  </style>
+  
+  <g class="grogu-body">
+    <!-- Robe / Body -->
+    <ellipse cx="100" cy="155" rx="35" ry="35" fill="#8B7355"/>
+    <ellipse cx="100" cy="150" rx="32" ry="28" fill="#A0895C"/>
+    <!-- Robe collar -->
+    <ellipse cx="100" cy="128" rx="22" ry="8" fill="#8B7355"/>
+    
+    <!-- Head -->
+    <ellipse cx="100" cy="90" rx="30" ry="28" fill="#5C8A4C"/>
+    <ellipse cx="100" cy="92" rx="28" ry="25" fill="#6B9E59"/>
+    
+    <!-- Ears -->
+    <g class="ear-left">
+      <ellipse cx="55" cy="82" rx="25" ry="8" fill="#5C8A4C" transform="rotate(-15 55 82)"/>
+      <ellipse cx="55" cy="82" rx="22" ry="5" fill="#7CAE6A" transform="rotate(-15 55 82)"/>
+    </g>
+    <g class="ear-right">
+      <ellipse cx="145" cy="82" rx="25" ry="8" fill="#5C8A4C" transform="rotate(15 145 82)"/>
+      <ellipse cx="145" cy="82" rx="22" ry="5" fill="#7CAE6A" transform="rotate(15 145 82)"/>
+    </g>
+    
+    <!-- Eyes -->
+    <ellipse class="eye-left" cx="88" cy="88" rx="8" ry="10" fill="#1a1a1a"/>
+    <ellipse class="eye-right" cx="112" cy="88" rx="8" ry="10" fill="#1a1a1a"/>
+    <!-- Eye shine -->
+    <circle cx="91" cy="85" r="3" fill="#ffffff" opacity="0.8"/>
+    <circle cx="115" cy="85" r="3" fill="#ffffff" opacity="0.8"/>
+    <!-- Pupils -->
+    <ellipse cx="88" cy="88" rx="5" ry="7" fill="#2D2D2D"/>
+    <ellipse cx="112" cy="88" rx="5" ry="7" fill="#2D2D2D"/>
+    
+    <!-- Mouth (cute smile) -->
+    <path d="M 93 100 Q 100 106 107 100" stroke="#3D6B30" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    
+    <!-- Wrinkles on forehead -->
+    <path d="M 88 72 Q 100 68 112 72" stroke="#5C8A4C" stroke-width="0.8" fill="none" opacity="0.5"/>
+    <path d="M 90 76 Q 100 73 110 76" stroke="#5C8A4C" stroke-width="0.8" fill="none" opacity="0.5"/>
+    
+    <!-- Little hands peeking from robe -->
+    <circle cx="72" cy="148" r="6" fill="#6B9E59"/>
+    <circle cx="128" cy="148" r="6" fill="#6B9E59"/>
+    
+    <!-- Force sparkles -->
+    <circle cx="68" cy="130" r="2" fill="#00d4ff" opacity="0.8">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="1;3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="132" cy="125" r="2" fill="#00d4ff" opacity="0.6">
+      <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="r" values="1;2.5;1" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <circle cx="75" cy="115" r="1.5" fill="#00d4ff" opacity="0.7">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="r" values="1;2;1" dur="1.8s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <circle cx="125" cy="140" r="1.5" fill="#00d4ff" opacity="0.5">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="0.3s"/>
+      <animate attributeName="r" values="0.5;2.5;0.5" dur="3s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <circle cx="60" cy="140" r="1" fill="#00d4ff" opacity="0.6">
+      <animate attributeName="opacity" values="0;0.8;0" dur="2.2s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="r" values="0.5;2;0.5" dur="2.2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+  </g>
+</svg>
