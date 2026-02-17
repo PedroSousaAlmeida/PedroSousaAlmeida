@@ -9,13 +9,9 @@
 </a>
 
 <br>
-<br>
 
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/-PedroSousaAlmeida-0D1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/PedroSousaAlmeida)
-
-<br>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=PedroSousaAlmeida&color=00d4ff&style=for-the-badge&label=VISITANTES+DO+TEMPLO)](https://github.com/PedroSousaAlmeida)
 
 <br>
