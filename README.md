@@ -302,7 +302,4 @@
 
 <br><br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a3a5c,100:0D1117&height=120&section=footer" width="100%"/>
-
 </div>
