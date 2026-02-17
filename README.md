@@ -1,44 +1,64 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:00d4ff&height=220&section=header&text=⚔️%20Pedro%20Sousa%20Almeida%20⚔️&fontSize=38&fontColor=00d4ff&fontAlignY=35&desc=Jedi%20Developer%20%7C%20May%20the%20Code%20be%20with%20you&descSize=16&descColor=7eb8da&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- 
+  ⚠️ INSTRUÇÕES IMPORTANTES:
+  
+  1. Crie o repo "PedroSousaAlmeida" no GitHub
+  2. Faça upload dos 3 arquivos SVG para o repo:
+     - header-banner.svg
+     - lightsaber-divider.svg  
+     - grogu.svg
+  3. Cole este README.md no repo
+  4. Para a snake animation, siga as instruções no final do arquivo
+-->
 
-<!-- TYPING SVG -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- HEADER BANNER ANIMADO COM SABRES DE LUZ -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="./header-banner.svg" width="100%" alt="Pedro Sousa Almeida - Jedi Developer"/>
+
+<br>
+
+<!-- TYPING SVG ANIMADO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%22Do.+Or+do+not.+There+is+no+try.%22+%E2%80%94+Yoda;Padawan+do+c%C3%B3digo%2C+aprendiz+da+For%C3%A7a+digital;console.log(%22Hello+Galaxy!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Padawan+do+c%C3%B3digo+%F0%9F%94%B5;console.log(%22Hello+Galaxy!%22)+%F0%9F%9A%80;git+commit+-m+%22use+the+force%22+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- SOCIAL BADGES -->
+<!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/-PedroSousaAlmeida-0D1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/PedroSousaAlmeida)
 [![Profile Views](https://komarev.com/ghpvc/?username=PedroSousaAlmeida&color=00d4ff&style=for-the-badge&label=VISITANTES+DO+TEMPLO)](https://github.com/PedroSousaAlmeida)
 
 <br>
 
-<!-- JEDI HOLOCRON ASCII -->
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║          ✦  HOLOCRON DO JEDI DEVELOPER  ✦                            ║
-║                                                                      ║
-║    ⚔️  Lado da Força: Luz 🔵                                        ║
-║    🌍  Localização: Brasil                                           ║
-║    🚀  Missão: Construir software que faça a diferença               ║
-║    📚  Status: Sempre evoluindo na Força                             ║
-║    🎯  Foco: Clean Code & Boas Práticas                             ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- GROGU + ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="./grogu.svg" width="150" alt="Grogu"/>
+
+### Este é o caminho. 🌌
 
 <br>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://img.shields.io/badge/⚔️_Lado_da_Força-Luz_🔵-0D1117?style=for-the-badge&labelColor=1a3a5c" />
+<img src="https://img.shields.io/badge/🌍_Localização-Brasil-0D1117?style=for-the-badge&labelColor=1a3a5c" />
+<img src="https://img.shields.io/badge/🚀_Missão-Construir_software_que_faça_a_diferença-0D1117?style=for-the-badge&labelColor=1a3a5c" />
+<img src="https://img.shields.io/badge/📚_Status-Sempre_evoluindo_na_Força-0D1117?style=for-the-badge&labelColor=1a3a5c" />
+
+<br><br>
+
+<!-- SABRE DIVIDER -->
+<img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
 <br>
 
-<!-- TECH STACK SECTION -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 ## 🛸 Arsenal do Jedi
 
 <br>
@@ -83,12 +103,15 @@
 
 <br><br>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SABRE DIVIDER -->
+<img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
 <br>
 
-<!-- GITHUB STATS SECTION -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 ## 📊 Holocron de Estatísticas
 
 <br>
@@ -100,18 +123,15 @@
 
 <br><br>
 
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSousaAlmeida&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7eb8da&dates=7eb8da&currStreakNum=00d4ff&sideNums=00d4ff" width="70%"/>
+<!-- STREAK -->
+<a href="https://github.com/PedroSousaAlmeida">
+  <img src="https://streak-stats.demolab.com?user=PedroSousaAlmeida&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7eb8da&dates=7eb8da&currStreakNum=00d4ff&sideNums=00d4ff" width="70%"/>
+</a>
 
 <br><br>
 
 <!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSousaAlmeida&bg_color=0D1117&color=00d4ff&line=00d4ff&point=7eb8da&area=true&area_color=1a3a5c&hide_border=true&custom_title=🌌%20Mapa%20de%20Contribuições%20na%20Galáxia" width="95%"/>
-
-<br><br>
-
-<!-- TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=PedroSousaAlmeida&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=00d4ff" width="95%"/>
 
 <br><br>
 
@@ -126,12 +146,15 @@
 
 <br><br>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SABRE DIVIDER -->
+<img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════ -->
 <!-- POWER LEVEL -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 ## ⚡ Poder de Combate
 
 <br>
@@ -144,35 +167,31 @@
 <table>
 <tr>
 <td align="center">
+<img src="./grogu.svg" width="100" alt="Grogu"/>
+<br>
+<sub><b>Companheiro de Jornada</b></sub>
+</td>
+<td align="center">
 
-```
-       ⚔️ STATUS DO JEDI ⚔️
-
-  Rank:          Cavaleiro Jedi
-  Especialidade: Full Stack
-  Sabre:         Azul (Guardião)
-  Mestre:        Open Source
-  Missões:       Em andamento...
-
-       ✦ A Força é forte ✦
-```
+| ⚔️ Atributo | 📊 Nível |
+|:---|:---|
+| **Rank** | Cavaleiro Jedi |
+| **Especialidade** | Full Stack |
+| **Sabre** | Azul (Guardião) 🔵 |
+| **Mestre** | Open Source |
+| **Missões** | Em andamento... |
 
 </td>
 <td align="center">
 
-```
-    🏅 CONQUISTAS DESBLOQUEADAS 🏅
-
-  [✔] Primeiro commit na Galáxia
-  [✔] 100+ commits no lado da Luz
-  [✔] Pull Request aceito por Mestre
-  [✔] Issue resolvida com sabedoria
-  [ ] 1000 commits (em progresso...)
-  [ ] Contribuir para projeto Jedi
-  [ ] Mestre do Open Source
-
-        ◈ Progresso: ████░░ 60%
-```
+| 🏅 Conquista | Status |
+|:---|:---:|
+| Primeiro commit | ✅ |
+| 100+ commits | ✅ |
+| PR aceito | ✅ |
+| Issue resolvida | ✅ |
+| 1000 commits | 🔄 |
+| Mestre Open Source | 🔜 |
 
 </td>
 </tr>
@@ -180,22 +199,28 @@
 
 <br>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SABRE DIVIDER -->
+<img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
 <br>
 
-<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- SNAKE -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 ## 🐍 Contribuições devorando a Galáxia
 
-<!--
-  🔧 COMO ATIVAR A ANIMAÇÃO SNAKE:
-  1. No seu repo PedroSousaAlmeida, vá em Settings > Actions > General
-  2. Em "Workflow permissions" selecione "Read and write permissions"
-  3. Crie o arquivo .github/workflows/snake.yml com o conteúdo abaixo
-  4. Vá na aba Actions e rode manualmente pela primeira vez
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
-  Conteúdo do snake.yml:
+<!--
+  🔧 COMO ATIVAR A SNAKE:
+  1. No repo PedroSousaAlmeida → Settings → Actions → General
+  2. Em "Workflow permissions" → "Read and write permissions" → Save
+  3. Crie o arquivo .github/workflows/snake.yml com:
 
   name: Generate Snake
   on:
@@ -218,62 +243,31 @@
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  4. Vá em Actions → "Generate Snake" → "Run workflow"
 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-<br><br>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- PINNED REPOS -->
-## 🏆 Missões em Destaque
-
-<!-- Substitua pelos nomes dos seus repos mais legais -->
-<!--
-<a href="https://github.com/PedroSousaAlmeida/NOME-DO-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSousaAlmeida&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=7eb8da" width="48%" />
-</a>
-<a href="https://github.com/PedroSousaAlmeida/NOME-DO-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSousaAlmeida&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=7eb8da" width="48%" />
-</a>
--->
-
-<img src="https://img.shields.io/badge/🔜_Em%20breve%20novas%20missões%20serão%20reveladas...-0D1117?style=for-the-badge&labelColor=1a3a5c" />
-
-<br><br>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SABRE DIVIDER -->
+<img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════ -->
 <!-- JEDI QUOTE -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 ## 💬 Transmissão Jedi
 
 <br>
 
-```
-                    ✦
-                   ╱ ╲
-                  ╱   ╲
-                 ╱     ╲
-                ╱  ◈ ◈  ╲          "Em meu código, não há emoção, há lógica.
-               ╱  ◈◈◈◈◈  ╲          Não há ignorância, há documentação.
-              ╱  ◈◈◈◈◈◈◈  ╲         Não há caos, há versionamento.
-             ╱─────────────╲        Não há bugs, há... ok, tem bugs."
-                   ║║
-                   ║║                      — O Código Jedi (adaptado)
-                   ║║
-              ─────╨╨─────
-```
+> *"Em meu código, não há emoção, há lógica.*
+> *Não há ignorância, há documentação.*
+> *Não há caos, há versionamento.*
+> *Não há bugs, há... ok, tem bugs."*
+>
+> — **O Código Jedi** (adaptado)
 
 <br>
 
@@ -282,22 +276,20 @@
 
 <br><br>
 
-<!-- RANDOM JOKE -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0D1117&qColor=00d4ff&aColor=7eb8da" width="50%"/>
-
-<br><br>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SABRE DIVIDER -->
+<img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════ -->
 <!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 ## 📡 Holopad de Comunicação
 
 <br>
 
-<!-- Troque pelos seus links reais -->
+<!-- ⚠️ TROQUE PELOS SEUS LINKS REAIS -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/SEU-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:seu@email.com)
 [![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00d4ff)](https://discord.gg/)
@@ -305,8 +297,8 @@
 
 <br><br>
 
-<!-- CALL TO ACTION -->
-<img src="https://img.shields.io/badge/⭐_Curtiu%20o%20perfil?%20Deixa%20uma%20star%20e%20um%20follow!-0D1117?style=for-the-badge&labelColor=1a3a5c" />
+<!-- FINAL MESSAGE -->
+<img src="https://img.shields.io/badge/⭐_Curtiu?_Deixa_uma_star_e_um_follow!-0D1117?style=for-the-badge&labelColor=1a3a5c" />
 
 <br><br>
 
