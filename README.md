@@ -1,26 +1,9 @@
 <div align="center">
 
-<!-- 
-  ⚠️ INSTRUÇÕES:
-  
-  1. Crie o repo "PedroSousaAlmeida" no GitHub
-  2. Faça upload dos 3 arquivos SVG para a RAIZ do repo:
-     - header-banner.svg
-     - lightsaber-divider.svg  
-     - grogu.svg
-  3. Cole este README.md no repo
-  4. Para a snake animation, siga as instruções no final do arquivo
--->
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- HEADER BANNER ANIMADO COM SABRES DE LUZ -->
-<!-- ═══════════════════════════════════════════════════ -->
-
 <img src="./header-banner.svg" width="100%" alt="Pedro Sousa Almeida - Jedi Developer"/>
 
 <br>
 
-<!-- TYPING SVG ANIMADO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Padawan+do+c%C3%B3digo+%F0%9F%94%B5;console.log(%22Hello+Galaxy!%22)+%F0%9F%9A%80;git+commit+-m+%22use+the+force%22+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </a>
@@ -32,6 +15,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=PedroSousaAlmeida&color=00d4ff&style=for-the-badge&label=VISITANTES+DO+TEMPLO)](https://github.com/PedroSousaAlmeida)
 
 <br>
+<br>
+<br>
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!-- GROGU + ABOUT ME -->
@@ -41,6 +26,7 @@
 
 ### Este é o caminho. 🌌
 
+<br>
 <br>
 
 <img src="https://img.shields.io/badge/⚔️_Lado_da_Força-Luz_🔵-0D1117?style=for-the-badge&labelColor=1a3a5c" />
@@ -143,23 +129,6 @@
 
 <br><br>
 
-<!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  💡 STATS NÃO APARECENDO?                                    ║
-  ║                                                               ║
-  ║  Se algum card não carregar, pode ser rate limit do Vercel.   ║
-  ║  A solução mais confiável é fazer seu próprio deploy:         ║
-  ║                                                               ║
-  ║  1. Vá em: https://github.com/vn7n24fzkq/github-profile-     ║
-  ║     summary-cards                                             ║
-  ║  2. Clique "Deploy with Vercel"                               ║
-  ║  3. Use seu domínio no lugar de                               ║
-  ║     github-profile-summary-cards.vercel.app                   ║
-  ║                                                               ║
-  ║  Mesma coisa pro streak-stats e activity-graph.               ║
-  ╚═══════════════════════════════════════════════════════════════╝
--->
-
 <!-- SABRE DIVIDER -->
 <img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
 
@@ -229,37 +198,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/PedroSousaAlmeida/PedroSousaAlmeida/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-<!--
-  🔧 COMO ATIVAR A SNAKE:
-  1. No repo PedroSousaAlmeida → Settings → Actions → General
-  2. Em "Workflow permissions" → "Read and write permissions" → Save
-  3. Crie o arquivo .github/workflows/snake.yml com:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: PedroSousaAlmeida
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  4. Vá em Actions → "Generate Snake" → "Run workflow"
--->
 
 <br>
 
