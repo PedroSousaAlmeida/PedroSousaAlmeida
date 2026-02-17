@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 
-  ⚠️ INSTRUÇÕES IMPORTANTES:
+  ⚠️ INSTRUÇÕES:
   
   1. Crie o repo "PedroSousaAlmeida" no GitHub
-  2. Faça upload dos 3 arquivos SVG para o repo:
+  2. Faça upload dos 3 arquivos SVG para a RAIZ do repo:
      - header-banner.svg
      - lightsaber-divider.svg  
      - grogu.svg
@@ -116,14 +116,22 @@
 
 <br>
 
-<a href="https://github.com/PedroSousaAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSousaAlmeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=7eb8da&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousaAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=7eb8da&langs_count=8"/>
-</a>
+<!-- STATS via github-profile-summary-cards (mais estável) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSousaAlmeida&theme=tokyonight" width="95%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroSousaAlmeida&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSousaAlmeida&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroSousaAlmeida&theme=tokyonight" width="32%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroSousaAlmeida&theme=tokyonight&utcOffset=-3" width="32%" />
 
 <br><br>
 
-<!-- STREAK -->
+<!-- STREAK (demolab é mais estável) -->
 <a href="https://github.com/PedroSousaAlmeida">
   <img src="https://streak-stats.demolab.com?user=PedroSousaAlmeida&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=7eb8da&dates=7eb8da&currStreakNum=00d4ff&sideNums=00d4ff" width="70%"/>
 </a>
@@ -135,16 +143,22 @@
 
 <br><br>
 
-<!-- PROFILE SUMMARY CARDS -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSousaAlmeida&theme=tokyonight" width="95%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSousaAlmeida&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroSousaAlmeida&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroSousaAlmeida&theme=tokyonight&utcOffset=-3" width="32%" />
-
-<br><br>
+<!--
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║  💡 STATS NÃO APARECENDO?                                    ║
+  ║                                                               ║
+  ║  Se algum card não carregar, pode ser rate limit do Vercel.   ║
+  ║  A solução mais confiável é fazer seu próprio deploy:         ║
+  ║                                                               ║
+  ║  1. Vá em: https://github.com/vn7n24fzkq/github-profile-     ║
+  ║     summary-cards                                             ║
+  ║  2. Clique "Deploy with Vercel"                               ║
+  ║  3. Use seu domínio no lugar de                               ║
+  ║     github-profile-summary-cards.vercel.app                   ║
+  ║                                                               ║
+  ║  Mesma coisa pro streak-stats e activity-graph.               ║
+  ╚═══════════════════════════════════════════════════════════════╝
+-->
 
 <!-- SABRE DIVIDER -->
 <img src="./lightsaber-divider.svg" width="100%" alt="lightsaber divider"/>
@@ -301,5 +315,8 @@
 <img src="https://img.shields.io/badge/⭐_Curtiu?_Deixa_uma_star_e_um_follow!-0D1117?style=for-the-badge&labelColor=1a3a5c" />
 
 <br><br>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a3a5c,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
